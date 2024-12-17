@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+plotly
+seaborn
+opencv-python-headless
+requests
+Pillow
